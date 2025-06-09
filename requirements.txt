@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+psycopg2
+faker
+confluent_kafka
+requests
