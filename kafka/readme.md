@@ -6,4 +6,5 @@
 ### 3. Lalu jalankan dengan cara
 ```
 python producer.py
+python consumer.py
 ```
